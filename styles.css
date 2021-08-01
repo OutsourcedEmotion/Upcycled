@@ -29,3 +29,13 @@
 .body {
     background-color: hsl(0, 0%, 60%);
 }
+
+.header {
+    text-align: center;
+    margin: 20 20;
+}
+
+.para {
+    text-align: center;
+    margin: 30 150;
+}
