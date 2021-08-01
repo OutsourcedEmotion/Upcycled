@@ -1,0 +1,31 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: hsl(0, 0%, 25%);
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: hsl(0, 100%, 100%);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: hsl(170, 0%, 35%);
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: hsl(170, 100%, 40%);
+    color: white;
+  }
+
+.body {
+    background-color: hsl(0, 0%, 60%);
+}
